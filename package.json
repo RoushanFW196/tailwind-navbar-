@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-navbar-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "css:build": "tailwind build ./src/style.css -o ./build/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoushanFW196/tailwind-navbar-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoushanFW196/tailwind-navbar-/issues"
+  },
+  "homepage": "https://github.com/RoushanFW196/tailwind-navbar-#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
